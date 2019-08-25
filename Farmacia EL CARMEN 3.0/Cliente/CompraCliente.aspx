@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/ClienteMaster.master" AutoEventWireup="true" CodeBehind="CompraCliente.aspx.cs" Inherits="Farmacia_EL_CARMEN_3._0.CompraCliente" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Cliente/ClienteMaster.master" AutoEventWireup="true" CodeBehind="CompraCliente.aspx.cs" Inherits="Farmacia_EL_CARMEN_3._0.CompraCliente" %>
 <%@ Register assembly="System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" namespace="System.Web.UI.DataVisualization.Charting" tagprefix="asp" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="Contenido" runat="server">
            <div id="caja_prin">

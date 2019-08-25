@@ -107,3 +107,38 @@ F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.
 F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csproj.CopyComplete
 F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.dll
 F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.pdb
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\ApplicationInsights.config
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\csc.exe
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\vbc.exe
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.dll.config
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.pdb
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Proceso.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Proceso.pdb
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csprojResolveAssemblyReference.cache
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.dll
+C:\Users\admin\Source\Repos\Farmacia-el-carmen\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.pdb

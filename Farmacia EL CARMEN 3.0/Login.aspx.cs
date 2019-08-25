@@ -25,13 +25,13 @@ namespace Farmacia_EL_CARMEN_3._0
             {
                 if (con.iniciarSesionEncargado(txtUsuario.Text, txtContra.Text))
                 {
-                    Response.Redirect("HomeEncargado.aspx");
+                    Response.Redirect("Encargado/HomeEncargado.aspx");
                     //Session["USUARIO"].ToString();
                 }
                 else if (con.iniciarSesionCliente(txtUsuario.Text, txtContra.Text))
                 {
                     //Session["Login"] = txtUsuario.Text;
-                    Response.Redirect("CompraCliente.aspx");
+                    Response.Redirect("Cliente/CompraCliente.aspx");
                     Response.Write("<script>alert('Bienbenido "+ txtUsuario.Text +"')</script>");
                 }
                 else
