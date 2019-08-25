@@ -1,0 +1,109 @@
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\ApplicationInsights.config
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\csc.exe
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\System.Collections.Immutable.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\System.Reflection.Metadata.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\vbc.exe
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\VBCSCompiler.exe
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\VBCSCompiler.exe.config
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.dll.config
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.pdb
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.DependencyCollector.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Web.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.WindowsServer.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.ApplicationInsights.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.DependencyCollector.xml
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Web.xml
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.WindowsServer.xml
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.ApplicationInsights.xml
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csprojResolveAssemblyReference.cache
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.pdb
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Proceso.dll
+G:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Proceso.pdb
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\ApplicationInsights.config
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\csc.exe
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\System.Collections.Immutable.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\System.Reflection.Metadata.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\vbc.exe
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\VBCSCompiler.exe
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\VBCSCompiler.exe.config
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.dll.config
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.pdb
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.DependencyCollector.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Web.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.WindowsServer.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.ApplicationInsights.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Proceso.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Proceso.pdb
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.DependencyCollector.xml
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Web.xml
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.WindowsServer.xml
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.ApplicationInsights.xml
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csprojAssemblyReference.cache
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csproj.CoreCompileInputs.cache
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csproj.CopyComplete
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.dll
+E:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.pdb
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\ApplicationInsights.config
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\csc.exe
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\System.Collections.Immutable.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\System.Reflection.Metadata.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\vbc.exe
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\VBCSCompiler.exe
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\roslyn\VBCSCompiler.exe.config
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.dll.config
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Farmacia EL CARMEN 3.0.pdb
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.DependencyCollector.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Web.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.WindowsServer.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.ApplicationInsights.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Proceso.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Proceso.pdb
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.DependencyCollector.xml
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.Web.xml
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.AI.WindowsServer.xml
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.ApplicationInsights.xml
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csprojAssemblyReference.cache
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csproj.CoreCompileInputs.cache
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.csproj.CopyComplete
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.dll
+F:\Farmacia EL CARMEN 3.0\Farmacia EL CARMEN 3.0\obj\Debug\Farmacia EL CARMEN 3.0.pdb

@@ -1,0 +1,47 @@
+﻿body, html {
+    margin:0px;
+    padding:0px;
+}
+
+.Cajapadre{
+    width: auto;
+    height: 400px;
+    margin-top: 80px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 60px;
+}
+
+
+.Cajatxtbox, .cajaimg{
+    height: 300px;
+    position:relative;
+    top:100px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.Cajaimg{
+      height: 300px;
+      position: relative;
+      top: 106px;
+      margin-right: 20px;
+      padding: 20px;
+      left: 68px;
+      width: 334px;
+}
+
+.Cajatxtbox{
+    height: 295px;
+    position: relative;
+    top: -232px;
+    width: 480px;
+    left: 448px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+Cajabtn{
+
+}

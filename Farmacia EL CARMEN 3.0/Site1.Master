@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Farmacia_EL_CARMEN_3._0.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="css/main.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" method="post">
+        <header id="header">
+				<nav class="left">
+					<asp:ContentPlaceHolder ID="Menu" runat="server">
+
+					</asp:ContentPlaceHolder>
+				</nav>
+            <asp:ContentPlaceHolder ID="header" runat="server">
+
+            </asp:ContentPlaceHolder>
+			</header>
+
+		<!-- Menu -->
+			<nav id="menu">
+                <asp:ContentPlaceHolder ID="menuItem" runat="server">
+
+                </asp:ContentPlaceHolder>
+				<ul class="actions vertical">
+					<li><a href="#" class="button fit">Login</a></li>
+				</ul>
+			</nav>
+		<div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<h2>NOSOTROS</h2>
+					<ul class="actions">
+						<li><span class="icon fa-phone"></span> <a href="#">(000) 000-0000</a></li>
+						<li><span class="icon fa-envelope"></span> <a href="#">farmaciaC@elcarmen.com</a></li>
+						<li><span class="icon fa-map-marker"></span> SOYACITY</li>
+					</ul>
+				</div>
+				<div class="copyright">
+					&copy; Farmacia ELCARMEN
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="scripts/jquery.min.js"></script>
+			<script src="scripts/jquery.scrolly.min.js"></script>
+			<script src="scripts/skel.min.js"></script>
+			<script src="scripts/util.js"></script>
+			<script src="scripts/main.js"></script>
+    </form>
+</body>
+</html>

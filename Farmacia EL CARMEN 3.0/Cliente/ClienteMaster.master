@@ -1,0 +1,22 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="ClienteMaster.master.cs" Inherits="Farmacia_EL_CARMEN_3._0.ClienteMaster" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="Menu" runat="server">
+        <a href="#menu"><span>Menu</span></a>
+</asp:Content>
+<asp:Content ID="Titulo" ContentPlaceHolderID ="header" runat="server">
+        <a href="CompraCliente.aspx" class="logo">Farmacia El Carmen</a>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="menuItem" runat="server">
+    <ul class="links">
+		<li><a href="index.html">Solicitud Cliente</a></li>
+		<li><a href="generic.html">Tienda</a></li>
+        <li><a href="RegistroCliente.aspx">Configuración de cuenta</a></li>
+        <li><a href="Login.aspx"><asp:Button ID="cerrarSession" runat="server" Text="Cerrar Sesión" OnClick="cerrarSession_Click"/></a></li>
+    </ul>
+</asp:Content>
+<asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ContentPlaceHolder ID="Contenido" runat="server">
+
+    </asp:ContentPlaceHolder>
+</asp:Content>

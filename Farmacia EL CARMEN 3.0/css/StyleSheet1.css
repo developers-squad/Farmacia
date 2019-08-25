@@ -1,0 +1,141 @@
+﻿
+
+    #caja_prin{
+width: 1400px;
+margin: 5px auto;
+text-align: left;
+padding: 1px;
+height: 600px;
+background-color: lightblue;
+}
+
+    #caja_login{
+width: 553px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 356px;
+background-color:white;
+}
+
+    #caja_registro{
+width: 605px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 408px;
+background-color:white;
+}
+       #caja_registroP{
+width: 629px;
+margin: 50px auto;
+text-align: left;
+padding: 8px;
+height: 467px;
+background-color:white;
+}
+              #caja_compra{
+width: 605px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 408px;
+background-color:white;
+}
+              #caja_administradorProduc{
+width: 605px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 408px;
+background-color:white;
+}
+         #caja_RegistroDeProductos{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 402px;
+background-color:white;
+}
+
+          #caja_factura{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 402px;
+background-color:white;
+}
+
+          
+          #caja_pagos{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 430px;
+background-color:white;
+}
+
+
+       #caja_soliMayo{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 430px;
+background-color:white;
+}
+              #caja_soliComun{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 430px;
+background-color:white;
+}
+
+
+       
+          #caja_facturaMayo{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 402px;
+background-color:white;
+}
+
+                        #caja_soliBodegaClienteComun{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 430px;
+background-color:white;
+}
+             #caja_soliBodegaClienteMayo{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 430px;
+background-color:white;
+}
+     #caja_menuAdministrador{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 430px;
+background-color:black;
+}
+         #caja_Historial{
+width: 692px;
+margin: 100px auto;
+text-align: left;
+padding: 8px;
+height: 430px;
+background-color:white;
+}
