@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AdminMaster.master" AutoEventWireup="true" CodeBehind="SolicitudCliente.aspx.cs" Inherits="Farmacia_EL_CARMEN_3._0.SolicitudCliente" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Administrador/AdminMaster.master" AutoEventWireup="true" CodeBehind="SolicitudCliente.aspx.cs" Inherits="Farmacia_EL_CARMEN_3._0.SolicitudCliente" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Contenido" runat="server">
