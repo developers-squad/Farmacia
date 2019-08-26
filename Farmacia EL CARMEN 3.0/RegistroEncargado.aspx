@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Administrador/AdminMaster.master" AutoEventWireup="true" CodeBehind="RegistroEncargado.aspx.cs" Inherits="Farmacia_EL_CARMEN_3._0.RegistroEncargado" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/AdminMaster.master" AutoEventWireup="true" CodeBehind="RegistroEncargado.aspx.cs" Inherits="Farmacia_EL_CARMEN_3._0.RegistroEncargado" %>
 <asp:Content ID="Content2" runat="server" contentplaceholderid="head">
     <style type="text/css">
         .auto-style1 {
